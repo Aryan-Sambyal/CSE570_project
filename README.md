@@ -68,6 +68,21 @@ The target variable represents whether a machine experienced a failure:
 | Failure Rate | 3.39% |
 
 The dataset is highly imbalanced, making precision, recall, F1-score and PR-AUC important evaluation metrics.
+## Dataset
+
+This project uses the AI4I 2020 Predictive Maintenance Dataset, which contains sensor measurements and machine failure information for industrial equipment.
+
+The dataset includes operational variables such as:
+
+- Air temperature
+- Process temperature
+- Rotational speed
+- Torque
+- Tool wear
+
+The dataset also contains machine failure labels that are used to train and evaluate the machine learning models.
+
+The dataset is used to explore patterns in machine operating conditions and build predictive models capable of identifying potential machine failures.
 
 ## 4. Technologies and Libraries
 
