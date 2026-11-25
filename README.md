@@ -314,5 +314,4 @@ Predictive-Maintenance-ML/
 └── README.md
 ```
 
-*Update filenames in this structure if your actual repository uses different names.*
 
